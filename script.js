@@ -5,3 +5,5 @@ const zale = "zalee"
 let umur = 12
 
 // ini komen untuk new branchg 1
+
+// komen buat branch 2
